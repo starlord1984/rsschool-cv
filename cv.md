@@ -4,11 +4,11 @@
 
 ---
 
-<!-- name -->
+<!-- Name -->
 
 ## Ser Konstantin
 
-<!-- Pof -->
+<!-- Pofes -->
 
 #### Front-end web developer
 
